@@ -1,0 +1,4 @@
+public interface Print_Quotient
+{
+	public boolean print_quotient(int x);
+}
